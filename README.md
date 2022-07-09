@@ -10,7 +10,7 @@ sh larbs.sh
 ```
 
 That's it.
-## What's diffrent than the default one?
+## What's different than the default one?
 This repo is for personal use, but to answer that question I have removed and added certain programs in the progs.csv file to suit my needs better and made the script add the choatic aur.
 
 ## What is LARBS?
