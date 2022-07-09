@@ -7,7 +7,7 @@
 
 ### OPTIONS AND VARIABLES ###
 
-dotfilesrepo="https://github.com/Sols-thiem/dotfiles"
+dotfilesrepo="https://github.com/justchokingaround/sols-dots/"
 progsfile="https://raw.githubusercontent.com/Sols-thiem/LARBS/master/progs.csv"
 aurhelper="yay"
 repobranch="master"
